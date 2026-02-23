@@ -18,4 +18,4 @@ Implémentation du pattern Service Locator en C# : résolution de dépendances v
 
 ## Stack
 
-C# / .NET Framework
+[![Stack](https://skillicons.dev/icons?i=dotnet,cs&theme=dark)](https://skillicons.dev)
